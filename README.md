@@ -1,2 +1,2 @@
 # argparse_setup
-repo for testing argparse
+Repo for testing argparse, and setting up CLI pipelines in python
